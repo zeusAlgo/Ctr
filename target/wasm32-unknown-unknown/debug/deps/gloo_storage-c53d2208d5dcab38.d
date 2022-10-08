@@ -1,0 +1,10 @@
+/Users/integrityacademy/yew-app/target/wasm32-unknown-unknown/debug/deps/gloo_storage-c53d2208d5dcab38.rmeta: /Users/integrityacademy/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs /Users/integrityacademy/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs /Users/integrityacademy/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs /Users/integrityacademy/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/integrityacademy/yew-app/target/wasm32-unknown-unknown/debug/deps/libgloo_storage-c53d2208d5dcab38.rlib: /Users/integrityacademy/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs /Users/integrityacademy/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs /Users/integrityacademy/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs /Users/integrityacademy/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/integrityacademy/yew-app/target/wasm32-unknown-unknown/debug/deps/gloo_storage-c53d2208d5dcab38.d: /Users/integrityacademy/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs /Users/integrityacademy/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs /Users/integrityacademy/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs /Users/integrityacademy/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/integrityacademy/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs:
+/Users/integrityacademy/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs:
+/Users/integrityacademy/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs:
+/Users/integrityacademy/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs:
